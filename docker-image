@@ -1,0 +1,3 @@
+docker image -ls  <====> lihat list docker image yang terdapat dalam laptop kita
+docker image pull namadockerimage(redis):latest <=====> download docker image yang belum diinstal di laptop kita
+docker image rm namadockerimage(redis):latest <======> menghapus docker image yang telah diinstal di laptop kita
